@@ -14,7 +14,7 @@ canvas { position: absolute; z-index: 0; }
 button {
 	
 	position: fixed;
-        top: 60%;
+        top: 65%;
         width: 300px;
         left: 60px;
 	font: inherit;
@@ -62,7 +62,7 @@ button {
     width: 300px;
     position: fixed;
     margin: 12% 9%;
-    left:15px;
+    left:20px;
     
 	
     }
