@@ -11,10 +11,11 @@ canvas { position: absolute; z-index: 0; }
 
 
 button {
+	
 	position: fixed;
     top: 60%;
     width: 25%;
-    left: 3%;
+    left: 35%;
 	font: inherit;
 	background-color: #f0f0f0;
 	border: 0;
@@ -60,4 +61,5 @@ button {
     width: 15%;
     position: fixed;
     margin: 12% 7.5%;
+    left: 32%;
     }
