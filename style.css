@@ -16,7 +16,7 @@ button {
 	position: fixed;
         top: 60%;
         width: 300px;
-        left: 50px;
+        left: 60px;
 	font: inherit;
 	background-color: #f0f0f0;
 	border: 0;
@@ -62,7 +62,7 @@ button {
     width: 300px;
     position: fixed;
     margin: 12% 9%;
-    left:10px;
+    left:15px;
     
 	
     }
